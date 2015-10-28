@@ -1,6 +1,6 @@
 {
   "name": "grunt-extract-svg-paths",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Extract path data from svg images",
   "main": "index.js",
   "scripts": {
