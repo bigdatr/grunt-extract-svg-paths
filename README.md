@@ -1,0 +1,1 @@
+# grunt-extract-svg-paths
