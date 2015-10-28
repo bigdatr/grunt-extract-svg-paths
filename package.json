@@ -21,5 +21,16 @@
     "grunt": "~0.4.5"
   },
   "author": "Allan Hortle",
-  "license": "ISC"
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigdatr/grunt-extract-svg-paths.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bigdatr/grunt-extract-svg-paths/issues"
+  },
+  "homepage": "https://github.com/bigdatr/grunt-extract-svg-paths#readme"
 }
